@@ -1,3 +1,11 @@
+@font-face {
+    font-family: Roxboro;
+    src: url(Roxborough.ttf);
+  }
+
+.font-heading {
+    font-family: Roxboro, serif;
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
