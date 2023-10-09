@@ -7,7 +7,7 @@
     <ul role="list" class="mx-auto mt-20 grid max-w-2xl grid-cols-2 gap-x-8 gap-y-16 text-center sm:grid-cols-3 md:grid-cols-4 lg:mx-0 lg:max-w-none lg:grid-cols-5 xl:grid-cols-6">
     @foreach($speakers as $speaker)
       <li>
-        <img class="mx-auto h-24 w-24 rounded-full" src="{{ asset($speaker->photo) }}" alt="">
+        <img class="mx-auto h-24 w-24 rounded-full" src="/storage/{{  $speaker->photo }}" alt="">
         <h3 class="mt-6 text-base font-semibold leading-7 tracking-tight text-gray-900">{{ $speaker->name }}</h3>
         <p class="text-sm leading-6 text-gray-600">{{ $speaker->location }}</p>
       </li>
