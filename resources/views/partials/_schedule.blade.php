@@ -1,8 +1,8 @@
-<div class="relative bg-white">
+<div class="relative bg-white" id="schedule">
   <div class="mx-auto max-w-7xl lg:flex lg:justify-between lg:px-8 xl:justify-end">
     <div class="lg:flex lg:w-1/2 lg:shrink lg:grow-0 xl:absolute xl:inset-y-0 xl:right-1/2 xl:w-1/2">
       <div class="relative h-80 lg:-ml-8 lg:h-auto lg:w-full lg:grow xl:ml-0">
-        <img class="absolute inset-0 h-full w-full bg-gray-50 object-cover" src="/meeting.jpg" alt="">
+        <img class="absolute inset-0 h-full w-full bg-gray-50 object-cover" src="/pulpit.jpg" alt="">
       </div>
     </div>
     <div class="px-6 lg:contents">

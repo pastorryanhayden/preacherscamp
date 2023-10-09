@@ -7,4 +7,5 @@
   @include('partials._speakers')
   @include('partials._schedule')
   @include('partials._location')
+  @include('partials._pricing')
 </div>
