@@ -21,7 +21,7 @@
         <a href="#pricing" class="font-heading tracking-widest uppercase font-semibold leading-6 text-gray-900">Cost</a>
       </div>
       <div class="hidden lg:flex lg:flex-1 lg:justify-end">
-        <a href="https://buytickets.at/thepreacherscamp/1032733" class="text-sm font-semibold leading-6 text-gray-900">Register <span aria-hidden="true">&rarr;</span></a>
+        <a href="https://app.tickettailor.com/events/thepreacherscamp1/1033319" class="text-sm font-semibold leading-6 text-gray-900">Register <span aria-hidden="true">&rarr;</span></a>
       </div>
     </nav>
     <!-- Mobile menu, show/hide based on menu open state. -->
@@ -51,7 +51,7 @@
               <a href="#pricing" class="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Cost</a>
             </div>
             <div class="py-6">
-              <a href="https://buytickets.at/thepreacherscamp/1032733" class="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Register</a>
+              <a href="https://app.tickettailor.com/events/thepreacherscamp1/1033319" class="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50">Register</a>
             </div>
           </div>
         </div>

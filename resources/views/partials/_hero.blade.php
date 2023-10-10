@@ -21,7 +21,7 @@
             <h2 class="text-2xl my-4">January 8-12, 2024 • $275 per Attendee</h2>
             <p class="relative mt-6 text-lg leading-8 text-gray-600 sm:max-w-md lg:max-w-none">The Preacher's Camp is <span class="font-bold underline">not another conference</span>.  It is a week away where independent Baptist pastors can disconnect, be refreshed and learn from each other how to improve in their preaching. </p>
             <div class="mt-10 flex items-center gap-x-6">
-            <a href="https://buytickets.at/thepreacherscamp/1032733" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Register</a>
+            <a href="https://app.tickettailor.com/events/thepreacherscamp1/1033319" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Register</a>
             <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Learn more <span aria-hidden="true">→</span></a>
             </div>
         </div>

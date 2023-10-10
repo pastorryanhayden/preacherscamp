@@ -10,7 +10,7 @@
         <p class="mt-6 text-xl leading-8 text-gray-600">A short drive from the airports in Richmond and Norfolk VA, the camp is easily accessible to most people in the eastern US.</p>
         
         <div class="mt-10 flex">
-          <a href="https://buytickets.at/thepreacherscamp/1032733" class="rounded-md bg-blue-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600">Register Now <span aria-hidden="true">&rarr;</span></a>
+          <a href="https://app.tickettailor.com/events/thepreacherscamp1/1033319" class="rounded-md bg-blue-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600">Register Now <span aria-hidden="true">&rarr;</span></a>
         </div>
       </div>
       <div class="flex flex-wrap items-start justify-end gap-6 sm:gap-8 lg:contents">
