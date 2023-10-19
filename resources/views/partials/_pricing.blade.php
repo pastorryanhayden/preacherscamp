@@ -12,6 +12,10 @@
             <dd class="mt-2 text-base leading-7 text-gray-600">The camp costs $275 per attendee.  That price includes all sessions, lodging and food for the week.</dd>
           </div>
           <div>
+            <dt class="text-base font-semibold leading-7 text-gray-900">When do I need to arrive?</dt>
+            <dd class="mt-2 text-base leading-7 text-gray-600">Check in is at 3pm.</dd>
+          </div>
+            <div>
             <dt class="text-base font-semibold leading-7 text-gray-900">What do I need to bring?</dt>
             <dd class="mt-2 text-base leading-7 text-gray-600">In addition to the obvious (like a Bible and notebook) you will want to bring bedding and towels.</dd>
           </div>
